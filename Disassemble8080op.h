@@ -3,7 +3,6 @@
 // Disassembler pt 1
 // *****************
 //
-// Base and idea from emulator010.com
 //
 // Simply translates stream of hex to assembly source.
 //
