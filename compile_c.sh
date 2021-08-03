@@ -6,4 +6,6 @@ FILE=$1
 OFILE=${1%.*}
 
 gcc -C $FILE
-gcc $FILE -o $OFILE
+gcc -Wall -g3 $FILE -o $OFILE
+
+exit 0
